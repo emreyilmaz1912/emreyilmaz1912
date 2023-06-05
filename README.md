@@ -1,4 +1,5 @@
 ## I'm Emre Yılmaz!
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2
 <h3 align="center">I'am learning Java.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,9 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreyilmaz1912&show_icons=true&locale=en" alt="emreyilmaz1912" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreyilmaz1912&" alt="emreyilmaz1912" /></p>
-
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2
-
 
 ![Snake Eating away my contributions](https://github.com/emreyilmaz1912/emreyilmaz1912/blob/output/github-contribution-grid-snake.gif)
