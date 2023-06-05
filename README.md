@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreyilmaz1912&show_icons=true&locale=en" alt="emreyilmaz1912" /></p>
 
 <p><img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreyilmaz1912&" alt="emreyilmaz1912" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreyilmaz1912&theme=dark&hide_border=true" alt="emreyilmaz1912" />
 <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
 </p>
 
