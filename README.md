@@ -7,7 +7,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/emreeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreeyilmaz" height="30" width="40" /></a>
-<a href="https://kaggle.com/emre yılmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emre yılmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/ey.videographer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ey.videographer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emreyilmaz264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emreyilmaz264" height="30" width="40" /></a>
 </p>
