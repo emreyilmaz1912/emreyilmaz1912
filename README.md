@@ -51,12 +51,3 @@
   <img src="https://streak-stats.demolab.com?user=emreyilmaz1912&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emreyilmaz1912/emreyilmaz1912/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake animation" />
-</p>
-
-<p align="center">
-  <em>Learning consistently. Building deliberately.</em>
-</p>
