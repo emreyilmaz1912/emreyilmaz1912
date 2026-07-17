@@ -40,14 +40,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emreyilmaz1912&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreyilmaz1912&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emreyilmaz1912&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
