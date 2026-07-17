@@ -1,32 +1,62 @@
-## I'm Emre Yılmaz!
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2
-<h3 align="center">I'am learning Java.</h3>
+<h1 align="center">Hi 👋, I'm Emre Yılmaz</h1>
 
-- 📫 How to reach me **emreyilmaz264@gmail.com**
+<h3 align="center">Java learner exploring backend development, one project at a time.</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/emreeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreeyilmaz" height="30" width="40" /></a>
-<a href="https://instagram.com/ey.videographer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ey.videographer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emreyilmaz264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emreyilmaz264" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreyilmaz1912&theme=dark&hide_border=true" alt="emreyilmaz1912" />
-<img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
+  <a href="mailto:emreyilmaz264@gmail.com">
+    <img src="https://img.shields.io/badge/Email-emreyilmaz264%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/emreeyilmaz">
+    <img src="https://img.shields.io/badge/LinkedIn-emreeyilmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ey.videographer">
+    <img src="https://img.shields.io/badge/Instagram-ey.videographer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/emreyilmaz264">
+    <img src="https://img.shields.io/badge/HackerRank-emreyilmaz264-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=emreyilmaz1912&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreyilmaz1912&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=emreyilmaz1912&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
+## About Me
 
-![Snake Eating away my contributions](https://github.com/emreyilmaz1912/emreyilmaz1912/blob/output/github-contribution-grid-snake.gif)
+- ☕ I'm currently learning **Java**.
+- 🧭 My learning path is **Java → OOP → Collections → SQL/JDBC → Spring Boot → REST APIs → Testing**.
+- 🗄️ I'm improving my database skills with **MySQL** and **PostgreSQL**.
+- 🎯 My goal is to build clean, maintainable and useful backend applications.
+- 📫 Reach me at [emreyilmaz264@gmail.com](mailto:emreyilmaz264@gmail.com).
+
+## Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emreyilmaz1912&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreyilmaz1912&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emreyilmaz1912&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emreyilmaz1912/emreyilmaz1912/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake animation" />
+</p>
+
+<p align="center">
+  <em>Learning consistently. Building deliberately.</em>
+</p>
